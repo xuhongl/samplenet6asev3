@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xuhliu\\OneDrive\\SampleApp\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\xuhliu\\samplenet6asev3\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\xuhliu\\OneDrive\\SampleApp\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\xuhliu\\samplenet6asev3\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\xuhliu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xuhliu\\OneDrive\\SampleApp\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\xuhliu\\samplenet6asev3\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
